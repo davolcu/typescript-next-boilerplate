@@ -10,7 +10,7 @@
         "paths": {
             "@/components/*": [ "components/*" ],
             "@/helpers/*": [ "helpers/*" ],
-            "@/services/*": [ "services/*" ],
+            "@/utils/*": [ "utils/*" ],
             "@/styles/*": [ "styles/*" ]
         },
         "allowJs": true,

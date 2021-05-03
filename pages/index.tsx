@@ -2,7 +2,7 @@
 import styles from '@/styles/modules/Home.module.scss';
 
 // Home utils
-import { homeTitle } from '@/helpers/pages/homeHelper';
+import { homeTitle } from '@/helpers/pages/home';
 
 // Homepage Components
 import Page from '@/components/page';

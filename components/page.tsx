@@ -3,7 +3,7 @@ import { FunctionComponent, ReactNode } from 'react';
 import Head from 'next/head';
 
 // Page utils
-import { getFormattedTitle } from '@/services/components/pageService';
+import { getFormattedTitle } from '@/utils/components/page';
 
 type Props = {
     children: ReactNode;

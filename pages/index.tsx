@@ -1,11 +1,8 @@
-// Static files for the homepage
+// Custom imports
 import styles from '@/styles/modules/Home.module.scss';
-
-// Home utils
-import { homeTitle } from '@/helpers/pages/home';
-
+import { homeTitle } from '@/helpers/pages/homepage/strings';
 // Homepage Components
-import Page from '@/components/page';
+import Page from '@/components/generic/page';
 
 const Home = () => {
     return (
